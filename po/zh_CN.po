@@ -3,7 +3,7 @@
 # Copyright (C) 2012,2013 Jiang Xin <worldhello.net AT gmail.com>
 # This file is distributed under the same license as the Git package.
 # Contributors:
-#	- Fangyi Zhou <fangyi.zhou AT yuriko.moe>
+#   - Fangyi Zhou <fangyi.zhou AT yuriko.moe>
 #   - Jiang Xin <worldhello.net AT gmail.com>
 #   - Lian Cheng <rhythm.mail AT gmail.com>
 #   - Ray Chen <oldsharp AT gmail.com>
@@ -13363,7 +13363,7 @@ msgstr "无法为子模组 '%s' 注册更新模式"
 
 #: builtin/submodule--helper.c:518
 msgid "Suppress output for initializing a submodule"
-msgstr "取消子模组初始化的输出"
+msgstr "阻止子模组初始化的输出"
 
 #: builtin/submodule--helper.c:523
 msgid "git submodule--helper init [<path>]"
@@ -13386,7 +13386,7 @@ msgstr "无法递归子模组 '%s'"
 
 #: builtin/submodule--helper.c:677
 msgid "Suppress submodule status output"
-msgstr "取消子模组状态输出"
+msgstr "阻止子模组状态输出"
 
 #: builtin/submodule--helper.c:678
 msgid ""
@@ -13396,7 +13396,7 @@ msgstr "使用存储在索引中的提交，而非存储在子模组 HEAD 中的
 
 #: builtin/submodule--helper.c:679
 msgid "recurse into nested submodules"
-msgstr "在嵌套子模组中递归"
+msgstr "递归进入嵌套子模组中"
 
 #: builtin/submodule--helper.c:684
 msgid "git submodule status [--quiet] [--cached] [--recursive] [<path>...]"
@@ -14018,7 +14018,7 @@ msgstr "缓存未跟踪文件在 '%s' 启用"
 
 #: builtin/update-index.c:1171
 msgid "core.fsmonitor is unset; set it if you really want to enable fsmonitor"
-msgstr "core.fsmonitor 未设置；如果想要启用 fsmonitor 请设置"
+msgstr "core.fsmonitor 未设置；如果想要启用 fsmonitor 请设置该选项"
 
 #: builtin/update-index.c:1175
 msgid "fsmonitor enabled"
@@ -14027,7 +14027,7 @@ msgstr "fsmonitor 被启用"
 #: builtin/update-index.c:1178
 msgid ""
 "core.fsmonitor is set; remove it if you really want to disable fsmonitor"
-msgstr "core.fsmonitor 已设置；如果想要禁用 fsmonitor 请移除设置"
+msgstr "core.fsmonitor 已设置；如果想要禁用 fsmonitor 请移除该选项"
 
 #: builtin/update-index.c:1182
 msgid "fsmonitor disabled"
